@@ -4,7 +4,7 @@ This repository contains financial documents and investment tracking information
 
 ## Contents
 
-- Stock investments assets balances documentation
+- Stock investment documentation and asset balance tracking
 
 ## Last Updated
 
