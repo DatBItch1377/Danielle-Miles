@@ -59,7 +59,10 @@ This repository is used for personal financial tracking, including:
 When working with estimated tax worksheets:
 1. Extract income, deductions, and credit information
 2. Calculate taxable income using current year tax tables
-3. Determine quarterly payment amounts (divide by 4)
+3. Determine quarterly payment amounts:
+   - Use the simplified method (divide by 4) for equal quarterly payments
+   - Note: IRS also allows annualized income installment method for uneven income
+   - Document which calculation method is being used
 4. Account for withholdings and previous payments
 5. Provide clear summary of amounts due
 
